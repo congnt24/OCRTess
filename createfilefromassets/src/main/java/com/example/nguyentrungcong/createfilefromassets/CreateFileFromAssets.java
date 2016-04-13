@@ -20,7 +20,7 @@ public class CreateFileFromAssets {
     private  static CreateFileFromAssets instance;
 
     public static CreateFileFromAssets getInstance(){
-        if (instance == null){
+        if (instance == null) {
             instance = new CreateFileFromAssets();
         }
         return instance;

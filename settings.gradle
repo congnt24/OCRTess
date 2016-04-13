@@ -1,0 +1,2 @@
+include ':app', ':createfilefromassets', ':takingpicture'
+include ':libraries:tess-two'
